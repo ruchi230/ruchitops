@@ -1,0 +1,131 @@
+.head{
+    height: 50vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px;
+}
+.head1{
+    background-color: lightblue;
+    width: 30%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.head2{
+    width: 70%;
+    height: 100%;
+    margin-left: 10px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png");
+    background-size: cover;
+}
+.but{
+    background-color: lightblue;
+    padding: 5px 5px;
+    text-align: center;
+    font-size: 16px;
+    justify-content: flex-start;
+}
+.body{
+    background-image: url("https://us.123rf.com/450wm/suradech14/suradech141608/suradech14160800048/63292963-light-blue-sky-with-cloud.jpg?ver=6");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    padding: 5px;
+    margin: 0px 10px 10px 10px;
+}
+.b1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.b2{
+    text-align: center;
+}
+.b3{
+    text-align: center;
+   margin-top: 20px
+}
+.body2{
+    background-color: lightblue;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 10px 10px 10px;
+}
+.body3{
+    height: 50vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px 10px 10px 10px;
+}
+.image{
+    width: 70px;
+    height: 60px;
+}
+.b4{
+    background-color:lightblue;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.b5{
+    background-color:lightblue;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 10px;
+}
+.p1{
+    background-color: lightblue;
+    height: 13vh;
+    margin: 0px 10px 0px 10px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.body4{
+    background-color: lightblue;
+    height: 30vh;
+    margin: 0px 10px 0px 10px;
+    padding: 0px 5px 5px 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;   
+}
+.b6{
+    background-color: lightblue;
+    width:33% ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+.b7{
+    background-color: lightblue;
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.b8{
+    background-color: lightblue;
+    width:33% ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
