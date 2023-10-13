@@ -1,0 +1,7 @@
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\pattern2_using_for_loop\pattern2_using_for_loop\bin\Debug\pattern2_using_for_loop.exe.config
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\pattern2_using_for_loop\pattern2_using_for_loop\bin\Debug\pattern2_using_for_loop.exe
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\pattern2_using_for_loop\pattern2_using_for_loop\bin\Debug\pattern2_using_for_loop.pdb
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\pattern2_using_for_loop\pattern2_using_for_loop\obj\Debug\pattern2_using_for_loop.csproj.AssemblyReference.cache
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\pattern2_using_for_loop\pattern2_using_for_loop\obj\Debug\pattern2_using_for_loop.csproj.CoreCompileInputs.cache
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\pattern2_using_for_loop\pattern2_using_for_loop\obj\Debug\pattern2_using_for_loop.exe
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\pattern2_using_for_loop\pattern2_using_for_loop\obj\Debug\pattern2_using_for_loop.pdb

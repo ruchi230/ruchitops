@@ -1,0 +1,7 @@
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\prime_numbers\prime_numbers\bin\Debug\prime_numbers.exe.config
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\prime_numbers\prime_numbers\bin\Debug\prime_numbers.exe
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\prime_numbers\prime_numbers\bin\Debug\prime_numbers.pdb
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\prime_numbers\prime_numbers\obj\Debug\prime_numbers.csproj.AssemblyReference.cache
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\prime_numbers\prime_numbers\obj\Debug\prime_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\prime_numbers\prime_numbers\obj\Debug\prime_numbers.exe
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\prime_numbers\prime_numbers\obj\Debug\prime_numbers.pdb
