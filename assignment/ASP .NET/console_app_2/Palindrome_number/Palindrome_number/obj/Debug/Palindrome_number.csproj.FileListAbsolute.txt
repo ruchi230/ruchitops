@@ -1,0 +1,7 @@
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Palindrome_number\Palindrome_number\bin\Debug\Palindrome_number.exe.config
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Palindrome_number\Palindrome_number\bin\Debug\Palindrome_number.exe
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Palindrome_number\Palindrome_number\bin\Debug\Palindrome_number.pdb
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Palindrome_number\Palindrome_number\obj\Debug\Palindrome_number.csproj.AssemblyReference.cache
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Palindrome_number\Palindrome_number\obj\Debug\Palindrome_number.csproj.CoreCompileInputs.cache
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Palindrome_number\Palindrome_number\obj\Debug\Palindrome_number.exe
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Palindrome_number\Palindrome_number\obj\Debug\Palindrome_number.pdb

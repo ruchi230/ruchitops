@@ -1,0 +1,7 @@
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Odd_or_Even_number\Odd_or_Even_number\bin\Debug\Odd_or_Even_number.exe.config
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Odd_or_Even_number\Odd_or_Even_number\bin\Debug\Odd_or_Even_number.exe
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Odd_or_Even_number\Odd_or_Even_number\bin\Debug\Odd_or_Even_number.pdb
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Odd_or_Even_number\Odd_or_Even_number\obj\Debug\Odd_or_Even_number.csproj.AssemblyReference.cache
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Odd_or_Even_number\Odd_or_Even_number\obj\Debug\Odd_or_Even_number.csproj.CoreCompileInputs.cache
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Odd_or_Even_number\Odd_or_Even_number\obj\Debug\Odd_or_Even_number.exe
+C:\Users\Divyesh Patel\Desktop\Riya\assignment\ASP .NET\MODULE 1 & 2\Odd_or_Even_number\Odd_or_Even_number\obj\Debug\Odd_or_Even_number.pdb
