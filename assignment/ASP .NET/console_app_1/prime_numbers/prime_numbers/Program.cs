@@ -21,10 +21,10 @@ namespace prime_numbers
                 for (int j = 1; j <= i; j++)
                 {
                     if(i%j == 0)
-                        Console.WriteLine("i%j = {0}",i%j);
+                        
                     {
                         c++;
-                        Console.WriteLine("c = {0}", c);
+                        
                     }
                         
                 }
