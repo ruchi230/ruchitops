@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\simple_calculation\simple_calculation\bin\Debug\simple_calculation.exe.config
+D:\Riya\assignment\ASP .NET 4\simple_calculation\simple_calculation\bin\Debug\simple_calculation.exe
+D:\Riya\assignment\ASP .NET 4\simple_calculation\simple_calculation\bin\Debug\simple_calculation.pdb
+D:\Riya\assignment\ASP .NET 4\simple_calculation\simple_calculation\obj\Debug\simple_calculation.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\simple_calculation\simple_calculation\obj\Debug\simple_calculation.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\simple_calculation\simple_calculation\obj\Debug\simple_calculation.exe
+D:\Riya\assignment\ASP .NET 4\simple_calculation\simple_calculation\obj\Debug\simple_calculation.pdb

@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\second_smallest_element\second_smallest_element\bin\Debug\second_smallest_element.exe.config
+D:\Riya\assignment\ASP .NET 4\second_smallest_element\second_smallest_element\bin\Debug\second_smallest_element.exe
+D:\Riya\assignment\ASP .NET 4\second_smallest_element\second_smallest_element\bin\Debug\second_smallest_element.pdb
+D:\Riya\assignment\ASP .NET 4\second_smallest_element\second_smallest_element\obj\Debug\second_smallest_element.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\second_smallest_element\second_smallest_element\obj\Debug\second_smallest_element.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\second_smallest_element\second_smallest_element\obj\Debug\second_smallest_element.exe
+D:\Riya\assignment\ASP .NET 4\second_smallest_element\second_smallest_element\obj\Debug\second_smallest_element.pdb

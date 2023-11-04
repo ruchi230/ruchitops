@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\string_in_reverse_order\string_in_reverse_order\bin\Debug\string_in_reverse_order.exe.config
+D:\Riya\assignment\ASP .NET 4\string_in_reverse_order\string_in_reverse_order\bin\Debug\string_in_reverse_order.exe
+D:\Riya\assignment\ASP .NET 4\string_in_reverse_order\string_in_reverse_order\bin\Debug\string_in_reverse_order.pdb
+D:\Riya\assignment\ASP .NET 4\string_in_reverse_order\string_in_reverse_order\obj\Debug\string_in_reverse_order.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\string_in_reverse_order\string_in_reverse_order\obj\Debug\string_in_reverse_order.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\string_in_reverse_order\string_in_reverse_order\obj\Debug\string_in_reverse_order.exe
+D:\Riya\assignment\ASP .NET 4\string_in_reverse_order\string_in_reverse_order\obj\Debug\string_in_reverse_order.pdb

@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\vowel_digit,_any_other_symbol\vowel_digit,_any_other_symbol\bin\Debug\vowel_digit,_any_other_symbol.exe.config
+D:\Riya\assignment\ASP .NET 4\vowel_digit,_any_other_symbol\vowel_digit,_any_other_symbol\bin\Debug\vowel_digit,_any_other_symbol.exe
+D:\Riya\assignment\ASP .NET 4\vowel_digit,_any_other_symbol\vowel_digit,_any_other_symbol\bin\Debug\vowel_digit,_any_other_symbol.pdb
+D:\Riya\assignment\ASP .NET 4\vowel_digit,_any_other_symbol\vowel_digit,_any_other_symbol\obj\Debug\vowel_digit,_any_other_symbol.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\vowel_digit,_any_other_symbol\vowel_digit,_any_other_symbol\obj\Debug\vowel_digit,_any_other_symbol.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\vowel_digit,_any_other_symbol\vowel_digit,_any_other_symbol\obj\Debug\vowel_digit,_any_other_symbol.exe
+D:\Riya\assignment\ASP .NET 4\vowel_digit,_any_other_symbol\vowel_digit,_any_other_symbol\obj\Debug\vowel_digit,_any_other_symbol.pdb
