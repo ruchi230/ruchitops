@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmatic_progress_series", "Arithmatic_progress_series\Arithmatic_progress_series.csproj", "{319B8871-7DF5-4798-9339-6F11E0BF6A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319B8871-7DF5-4798-9339-6F11E0BF6A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319B8871-7DF5-4798-9339-6F11E0BF6A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319B8871-7DF5-4798-9339-6F11E0BF6A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319B8871-7DF5-4798-9339-6F11E0BF6A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3BD43AD-4C6E-4DC1-9BC2-F4BDE36242DD}
+	EndGlobalSection
+EndGlobal

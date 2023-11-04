@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\arithmetic_operation\arithmetic_operation\bin\Debug\arithmetic_operation.exe.config
+D:\Riya\assignment\ASP .NET 4\arithmetic_operation\arithmetic_operation\bin\Debug\arithmetic_operation.exe
+D:\Riya\assignment\ASP .NET 4\arithmetic_operation\arithmetic_operation\bin\Debug\arithmetic_operation.pdb
+D:\Riya\assignment\ASP .NET 4\arithmetic_operation\arithmetic_operation\obj\Debug\arithmetic_operation.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\arithmetic_operation\arithmetic_operation\obj\Debug\arithmetic_operation.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\arithmetic_operation\arithmetic_operation\obj\Debug\arithmetic_operation.exe
+D:\Riya\assignment\ASP .NET 4\arithmetic_operation\arithmetic_operation\obj\Debug\arithmetic_operation.pdb

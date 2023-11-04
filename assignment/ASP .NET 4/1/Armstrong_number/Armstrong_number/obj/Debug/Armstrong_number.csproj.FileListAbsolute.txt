@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\Armstrong_number\Armstrong_number\bin\Debug\Armstrong_number.exe.config
+D:\Riya\assignment\ASP .NET 4\Armstrong_number\Armstrong_number\bin\Debug\Armstrong_number.exe
+D:\Riya\assignment\ASP .NET 4\Armstrong_number\Armstrong_number\bin\Debug\Armstrong_number.pdb
+D:\Riya\assignment\ASP .NET 4\Armstrong_number\Armstrong_number\obj\Debug\Armstrong_number.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\Armstrong_number\Armstrong_number\obj\Debug\Armstrong_number.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\Armstrong_number\Armstrong_number\obj\Debug\Armstrong_number.exe
+D:\Riya\assignment\ASP .NET 4\Armstrong_number\Armstrong_number\obj\Debug\Armstrong_number.pdb
