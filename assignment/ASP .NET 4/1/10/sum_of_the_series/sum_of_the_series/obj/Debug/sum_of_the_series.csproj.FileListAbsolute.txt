@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\sum_of_the_series\sum_of_the_series\bin\Debug\sum_of_the_series.exe.config
+D:\Riya\assignment\ASP .NET 4\sum_of_the_series\sum_of_the_series\bin\Debug\sum_of_the_series.exe
+D:\Riya\assignment\ASP .NET 4\sum_of_the_series\sum_of_the_series\bin\Debug\sum_of_the_series.pdb
+D:\Riya\assignment\ASP .NET 4\sum_of_the_series\sum_of_the_series\obj\Debug\sum_of_the_series.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\sum_of_the_series\sum_of_the_series\obj\Debug\sum_of_the_series.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\sum_of_the_series\sum_of_the_series\obj\Debug\sum_of_the_series.exe
+D:\Riya\assignment\ASP .NET 4\sum_of_the_series\sum_of_the_series\obj\Debug\sum_of_the_series.pdb
