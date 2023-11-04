@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\pattern_like_I\pattern_like_I\bin\Debug\pattern_like_I.exe.config
+D:\Riya\assignment\ASP .NET 4\pattern_like_I\pattern_like_I\bin\Debug\pattern_like_I.exe
+D:\Riya\assignment\ASP .NET 4\pattern_like_I\pattern_like_I\bin\Debug\pattern_like_I.pdb
+D:\Riya\assignment\ASP .NET 4\pattern_like_I\pattern_like_I\obj\Debug\pattern_like_I.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\pattern_like_I\pattern_like_I\obj\Debug\pattern_like_I.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\pattern_like_I\pattern_like_I\obj\Debug\pattern_like_I.exe
+D:\Riya\assignment\ASP .NET 4\pattern_like_I\pattern_like_I\obj\Debug\pattern_like_I.pdb

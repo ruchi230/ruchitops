@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\pattern_like_pyramid\pattern_like_pyramid\bin\Debug\pattern_like_pyramid.exe.config
+D:\Riya\assignment\ASP .NET 4\pattern_like_pyramid\pattern_like_pyramid\bin\Debug\pattern_like_pyramid.exe
+D:\Riya\assignment\ASP .NET 4\pattern_like_pyramid\pattern_like_pyramid\bin\Debug\pattern_like_pyramid.pdb
+D:\Riya\assignment\ASP .NET 4\pattern_like_pyramid\pattern_like_pyramid\obj\Debug\pattern_like_pyramid.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\pattern_like_pyramid\pattern_like_pyramid\obj\Debug\pattern_like_pyramid.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\pattern_like_pyramid\pattern_like_pyramid\obj\Debug\pattern_like_pyramid.exe
+D:\Riya\assignment\ASP .NET 4\pattern_like_pyramid\pattern_like_pyramid\obj\Debug\pattern_like_pyramid.pdb
