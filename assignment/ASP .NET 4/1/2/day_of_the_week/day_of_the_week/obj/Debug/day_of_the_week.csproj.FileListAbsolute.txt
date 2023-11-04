@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\day_of_the_week\day_of_the_week\bin\Debug\day_of_the_week.exe.config
+D:\Riya\assignment\ASP .NET 4\day_of_the_week\day_of_the_week\bin\Debug\day_of_the_week.exe
+D:\Riya\assignment\ASP .NET 4\day_of_the_week\day_of_the_week\bin\Debug\day_of_the_week.pdb
+D:\Riya\assignment\ASP .NET 4\day_of_the_week\day_of_the_week\obj\Debug\day_of_the_week.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\day_of_the_week\day_of_the_week\obj\Debug\day_of_the_week.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\day_of_the_week\day_of_the_week\obj\Debug\day_of_the_week.exe
+D:\Riya\assignment\ASP .NET 4\day_of_the_week\day_of_the_week\obj\Debug\day_of_the_week.pdb

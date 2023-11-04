@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "even_natural_number_and_their_sum", "even_natural_number_and_their_sum\even_natural_number_and_their_sum.csproj", "{7B326E28-38A8-4A93-8105-154A6015EC2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B326E28-38A8-4A93-8105-154A6015EC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B326E28-38A8-4A93-8105-154A6015EC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B326E28-38A8-4A93-8105-154A6015EC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B326E28-38A8-4A93-8105-154A6015EC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7842AAF0-FD06-4573-831F-7679A0A7D05C}
+	EndGlobalSection
+EndGlobal

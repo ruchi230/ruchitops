@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\average\average\bin\Debug\average.exe.config
+D:\Riya\assignment\ASP .NET 4\average\average\bin\Debug\average.exe
+D:\Riya\assignment\ASP .NET 4\average\average\bin\Debug\average.pdb
+D:\Riya\assignment\ASP .NET 4\average\average\obj\Debug\average.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\average\average\obj\Debug\average.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\average\average\obj\Debug\average.exe
+D:\Riya\assignment\ASP .NET 4\average\average\obj\Debug\average.pdb

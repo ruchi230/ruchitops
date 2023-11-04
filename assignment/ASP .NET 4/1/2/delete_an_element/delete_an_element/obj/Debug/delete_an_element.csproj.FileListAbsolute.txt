@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\delete_an_element\delete_an_element\bin\Debug\delete_an_element.exe.config
+D:\Riya\assignment\ASP .NET 4\delete_an_element\delete_an_element\bin\Debug\delete_an_element.exe
+D:\Riya\assignment\ASP .NET 4\delete_an_element\delete_an_element\bin\Debug\delete_an_element.pdb
+D:\Riya\assignment\ASP .NET 4\delete_an_element\delete_an_element\obj\Debug\delete_an_element.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\delete_an_element\delete_an_element\obj\Debug\delete_an_element.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\delete_an_element\delete_an_element\obj\Debug\delete_an_element.exe
+D:\Riya\assignment\ASP .NET 4\delete_an_element\delete_an_element\obj\Debug\delete_an_element.pdb
