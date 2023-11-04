@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\letter_reverse\letter_reverse\bin\Debug\letter_reverse.exe.config
+D:\Riya\assignment\ASP .NET 4\letter_reverse\letter_reverse\bin\Debug\letter_reverse.exe
+D:\Riya\assignment\ASP .NET 4\letter_reverse\letter_reverse\bin\Debug\letter_reverse.pdb
+D:\Riya\assignment\ASP .NET 4\letter_reverse\letter_reverse\obj\Debug\letter_reverse.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\letter_reverse\letter_reverse\obj\Debug\letter_reverse.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\letter_reverse\letter_reverse\obj\Debug\letter_reverse.exe
+D:\Riya\assignment\ASP .NET 4\letter_reverse\letter_reverse\obj\Debug\letter_reverse.pdb

@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\marksheet\marksheet\bin\Debug\marksheet.exe.config
+D:\Riya\assignment\ASP .NET 4\marksheet\marksheet\bin\Debug\marksheet.exe
+D:\Riya\assignment\ASP .NET 4\marksheet\marksheet\bin\Debug\marksheet.pdb
+D:\Riya\assignment\ASP .NET 4\marksheet\marksheet\obj\Debug\marksheet.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\marksheet\marksheet\obj\Debug\marksheet.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\marksheet\marksheet\obj\Debug\marksheet.exe
+D:\Riya\assignment\ASP .NET 4\marksheet\marksheet\obj\Debug\marksheet.pdb
