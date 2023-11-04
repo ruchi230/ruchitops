@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\multiplication_table_vertically\multiplication_table_vertically\bin\Debug\multiplication_table_vertically.exe.config
+D:\Riya\assignment\ASP .NET 4\multiplication_table_vertically\multiplication_table_vertically\bin\Debug\multiplication_table_vertically.exe
+D:\Riya\assignment\ASP .NET 4\multiplication_table_vertically\multiplication_table_vertically\bin\Debug\multiplication_table_vertically.pdb
+D:\Riya\assignment\ASP .NET 4\multiplication_table_vertically\multiplication_table_vertically\obj\Debug\multiplication_table_vertically.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\multiplication_table_vertically\multiplication_table_vertically\obj\Debug\multiplication_table_vertically.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\multiplication_table_vertically\multiplication_table_vertically\obj\Debug\multiplication_table_vertically.exe
+D:\Riya\assignment\ASP .NET 4\multiplication_table_vertically\multiplication_table_vertically\obj\Debug\multiplication_table_vertically.pdb
