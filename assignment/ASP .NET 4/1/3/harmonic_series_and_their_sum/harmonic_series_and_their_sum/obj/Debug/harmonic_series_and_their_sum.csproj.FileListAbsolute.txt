@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\harmonic_series_and_their_sum\harmonic_series_and_their_sum\bin\Debug\harmonic_series_and_their_sum.exe.config
+D:\Riya\assignment\ASP .NET 4\harmonic_series_and_their_sum\harmonic_series_and_their_sum\bin\Debug\harmonic_series_and_their_sum.exe
+D:\Riya\assignment\ASP .NET 4\harmonic_series_and_their_sum\harmonic_series_and_their_sum\bin\Debug\harmonic_series_and_their_sum.pdb
+D:\Riya\assignment\ASP .NET 4\harmonic_series_and_their_sum\harmonic_series_and_their_sum\obj\Debug\harmonic_series_and_their_sum.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\harmonic_series_and_their_sum\harmonic_series_and_their_sum\obj\Debug\harmonic_series_and_their_sum.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\harmonic_series_and_their_sum\harmonic_series_and_their_sum\obj\Debug\harmonic_series_and_their_sum.exe
+D:\Riya\assignment\ASP .NET 4\harmonic_series_and_their_sum\harmonic_series_and_their_sum\obj\Debug\harmonic_series_and_their_sum.pdb

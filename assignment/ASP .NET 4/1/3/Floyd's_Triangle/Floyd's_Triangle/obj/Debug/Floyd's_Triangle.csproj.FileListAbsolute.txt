@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\Floyd's_Triangle\Floyd's_Triangle\bin\Debug\Floyd's_Triangle.exe.config
+D:\Riya\assignment\ASP .NET 4\Floyd's_Triangle\Floyd's_Triangle\bin\Debug\Floyd's_Triangle.exe
+D:\Riya\assignment\ASP .NET 4\Floyd's_Triangle\Floyd's_Triangle\bin\Debug\Floyd's_Triangle.pdb
+D:\Riya\assignment\ASP .NET 4\Floyd's_Triangle\Floyd's_Triangle\obj\Debug\Floyd's_Triangle.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\Floyd's_Triangle\Floyd's_Triangle\obj\Debug\Floyd's_Triangle.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\Floyd's_Triangle\Floyd's_Triangle\obj\Debug\Floyd's_Triangle.exe
+D:\Riya\assignment\ASP .NET 4\Floyd's_Triangle\Floyd's_Triangle\obj\Debug\Floyd's_Triangle.pdb

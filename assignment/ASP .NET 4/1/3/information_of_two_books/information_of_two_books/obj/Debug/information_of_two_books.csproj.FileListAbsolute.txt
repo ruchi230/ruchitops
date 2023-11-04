@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\information_of_two_books\information_of_two_books\bin\Debug\information_of_two_books.exe.config
+D:\Riya\assignment\ASP .NET 4\information_of_two_books\information_of_two_books\bin\Debug\information_of_two_books.exe
+D:\Riya\assignment\ASP .NET 4\information_of_two_books\information_of_two_books\bin\Debug\information_of_two_books.pdb
+D:\Riya\assignment\ASP .NET 4\information_of_two_books\information_of_two_books\obj\Debug\information_of_two_books.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\information_of_two_books\information_of_two_books\obj\Debug\information_of_two_books.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\information_of_two_books\information_of_two_books\obj\Debug\information_of_two_books.exe
+D:\Riya\assignment\ASP .NET 4\information_of_two_books\information_of_two_books\obj\Debug\information_of_two_books.pdb

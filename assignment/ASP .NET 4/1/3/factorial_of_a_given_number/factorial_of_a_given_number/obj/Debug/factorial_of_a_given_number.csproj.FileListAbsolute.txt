@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\factorial_of_a_given_number\factorial_of_a_given_number\bin\Debug\factorial_of_a_given_number.exe.config
+D:\Riya\assignment\ASP .NET 4\factorial_of_a_given_number\factorial_of_a_given_number\bin\Debug\factorial_of_a_given_number.exe
+D:\Riya\assignment\ASP .NET 4\factorial_of_a_given_number\factorial_of_a_given_number\bin\Debug\factorial_of_a_given_number.pdb
+D:\Riya\assignment\ASP .NET 4\factorial_of_a_given_number\factorial_of_a_given_number\obj\Debug\factorial_of_a_given_number.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\factorial_of_a_given_number\factorial_of_a_given_number\obj\Debug\factorial_of_a_given_number.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\factorial_of_a_given_number\factorial_of_a_given_number\obj\Debug\factorial_of_a_given_number.exe
+D:\Riya\assignment\ASP .NET 4\factorial_of_a_given_number\factorial_of_a_given_number\obj\Debug\factorial_of_a_given_number.pdb
