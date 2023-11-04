@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\perfect_number\perfect_number\bin\Debug\perfect_number.exe.config
+D:\Riya\assignment\ASP .NET 4\perfect_number\perfect_number\bin\Debug\perfect_number.exe
+D:\Riya\assignment\ASP .NET 4\perfect_number\perfect_number\bin\Debug\perfect_number.pdb
+D:\Riya\assignment\ASP .NET 4\perfect_number\perfect_number\obj\Debug\perfect_number.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\perfect_number\perfect_number\obj\Debug\perfect_number.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\perfect_number\perfect_number\obj\Debug\perfect_number.exe
+D:\Riya\assignment\ASP .NET 4\perfect_number\perfect_number\obj\Debug\perfect_number.pdb

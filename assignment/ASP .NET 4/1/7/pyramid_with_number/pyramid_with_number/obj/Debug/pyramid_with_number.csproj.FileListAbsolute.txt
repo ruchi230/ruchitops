@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\pyramid_with_number\pyramid_with_number\bin\Debug\pyramid_with_number.exe.config
+D:\Riya\assignment\ASP .NET 4\pyramid_with_number\pyramid_with_number\bin\Debug\pyramid_with_number.exe
+D:\Riya\assignment\ASP .NET 4\pyramid_with_number\pyramid_with_number\bin\Debug\pyramid_with_number.pdb
+D:\Riya\assignment\ASP .NET 4\pyramid_with_number\pyramid_with_number\obj\Debug\pyramid_with_number.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\pyramid_with_number\pyramid_with_number\obj\Debug\pyramid_with_number.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\pyramid_with_number\pyramid_with_number\obj\Debug\pyramid_with_number.exe
+D:\Riya\assignment\ASP .NET 4\pyramid_with_number\pyramid_with_number\obj\Debug\pyramid_with_number.pdb

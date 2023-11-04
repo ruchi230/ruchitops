@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\right_angle_triangle\right_angle_triangle\bin\Debug\right_angle_triangle.exe.config
+D:\Riya\assignment\ASP .NET 4\right_angle_triangle\right_angle_triangle\bin\Debug\right_angle_triangle.exe
+D:\Riya\assignment\ASP .NET 4\right_angle_triangle\right_angle_triangle\bin\Debug\right_angle_triangle.pdb
+D:\Riya\assignment\ASP .NET 4\right_angle_triangle\right_angle_triangle\obj\Debug\right_angle_triangle.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\right_angle_triangle\right_angle_triangle\obj\Debug\right_angle_triangle.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\right_angle_triangle\right_angle_triangle\obj\Debug\right_angle_triangle.exe
+D:\Riya\assignment\ASP .NET 4\right_angle_triangle\right_angle_triangle\obj\Debug\right_angle_triangle.pdb

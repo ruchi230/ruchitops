@@ -1,0 +1,7 @@
+D:\Riya\assignment\ASP .NET 4\pattern_triangle\pattern_triangle\bin\Debug\pattern_triangle.exe.config
+D:\Riya\assignment\ASP .NET 4\pattern_triangle\pattern_triangle\bin\Debug\pattern_triangle.exe
+D:\Riya\assignment\ASP .NET 4\pattern_triangle\pattern_triangle\bin\Debug\pattern_triangle.pdb
+D:\Riya\assignment\ASP .NET 4\pattern_triangle\pattern_triangle\obj\Debug\pattern_triangle.csproj.AssemblyReference.cache
+D:\Riya\assignment\ASP .NET 4\pattern_triangle\pattern_triangle\obj\Debug\pattern_triangle.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\ASP .NET 4\pattern_triangle\pattern_triangle\obj\Debug\pattern_triangle.exe
+D:\Riya\assignment\ASP .NET 4\pattern_triangle\pattern_triangle\obj\Debug\pattern_triangle.pdb
