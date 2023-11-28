@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+D:\Riya\assignment\MVC .NET 3\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+D:\Riya\assignment\MVC .NET 3\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+D:\Riya\assignment\MVC .NET 3\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+D:\Riya\assignment\MVC .NET 3\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

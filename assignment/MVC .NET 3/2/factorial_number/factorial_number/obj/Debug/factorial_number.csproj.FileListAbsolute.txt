@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\factorial_number\factorial_number\bin\Debug\factorial_number.exe.config
+D:\Riya\assignment\MVC .NET 3\factorial_number\factorial_number\bin\Debug\factorial_number.exe
+D:\Riya\assignment\MVC .NET 3\factorial_number\factorial_number\bin\Debug\factorial_number.pdb
+D:\Riya\assignment\MVC .NET 3\factorial_number\factorial_number\obj\Debug\factorial_number.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\factorial_number\factorial_number\obj\Debug\factorial_number.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\factorial_number\factorial_number\obj\Debug\factorial_number.exe
+D:\Riya\assignment\MVC .NET 3\factorial_number\factorial_number\obj\Debug\factorial_number.pdb
