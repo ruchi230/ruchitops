@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\static_method\static_method\obj\Debug\static_method.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\static_method\static_method\obj\Debug\static_method.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\static_method\static_method\bin\Debug\static_method.exe.config
+D:\Riya\assignment\MVC .NET 3\static_method\static_method\bin\Debug\static_method.exe
+D:\Riya\assignment\MVC .NET 3\static_method\static_method\bin\Debug\static_method.pdb
+D:\Riya\assignment\MVC .NET 3\static_method\static_method\obj\Debug\static_method.exe
+D:\Riya\assignment\MVC .NET 3\static_method\static_method\obj\Debug\static_method.pdb

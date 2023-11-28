@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\series1\series1\bin\Debug\series1.exe.config
+D:\Riya\assignment\MVC .NET 3\series1\series1\bin\Debug\series1.exe
+D:\Riya\assignment\MVC .NET 3\series1\series1\bin\Debug\series1.pdb
+D:\Riya\assignment\MVC .NET 3\series1\series1\obj\Debug\series1.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\series1\series1\obj\Debug\series1.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\series1\series1\obj\Debug\series1.exe
+D:\Riya\assignment\MVC .NET 3\series1\series1\obj\Debug\series1.pdb

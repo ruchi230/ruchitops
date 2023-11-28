@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\sort _numeric_array\sort _numeric_array\bin\Debug\sort _numeric_array.exe.config
+D:\Riya\assignment\MVC .NET 3\sort _numeric_array\sort _numeric_array\bin\Debug\sort _numeric_array.exe
+D:\Riya\assignment\MVC .NET 3\sort _numeric_array\sort _numeric_array\bin\Debug\sort _numeric_array.pdb
+D:\Riya\assignment\MVC .NET 3\sort _numeric_array\sort _numeric_array\obj\Debug\sort _numeric_array.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\sort _numeric_array\sort _numeric_array\obj\Debug\sort _numeric_array.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\sort _numeric_array\sort _numeric_array\obj\Debug\sort _numeric_array.exe
+D:\Riya\assignment\MVC .NET 3\sort _numeric_array\sort _numeric_array\obj\Debug\sort _numeric_array.pdb

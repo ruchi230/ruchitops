@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\series2\series2\bin\Debug\series2.exe.config
+D:\Riya\assignment\MVC .NET 3\series2\series2\bin\Debug\series2.exe
+D:\Riya\assignment\MVC .NET 3\series2\series2\bin\Debug\series2.pdb
+D:\Riya\assignment\MVC .NET 3\series2\series2\obj\Debug\series2.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\series2\series2\obj\Debug\series2.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\series2\series2\obj\Debug\series2.exe
+D:\Riya\assignment\MVC .NET 3\series2\series2\obj\Debug\series2.pdb
