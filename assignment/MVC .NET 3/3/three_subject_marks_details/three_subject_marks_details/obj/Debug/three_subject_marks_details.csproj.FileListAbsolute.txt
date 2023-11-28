@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\three_subject_marks_details\three_subject_marks_details\bin\Debug\three_subject_marks_details.exe.config
+D:\Riya\assignment\MVC .NET 3\three_subject_marks_details\three_subject_marks_details\bin\Debug\three_subject_marks_details.exe
+D:\Riya\assignment\MVC .NET 3\three_subject_marks_details\three_subject_marks_details\bin\Debug\three_subject_marks_details.pdb
+D:\Riya\assignment\MVC .NET 3\three_subject_marks_details\three_subject_marks_details\obj\Debug\three_subject_marks_details.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\three_subject_marks_details\three_subject_marks_details\obj\Debug\three_subject_marks_details.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\three_subject_marks_details\three_subject_marks_details\obj\Debug\three_subject_marks_details.exe
+D:\Riya\assignment\MVC .NET 3\three_subject_marks_details\three_subject_marks_details\obj\Debug\three_subject_marks_details.pdb
