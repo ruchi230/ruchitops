@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\pattern3\pattern3\bin\Debug\pattern3.exe.config
+D:\Riya\assignment\MVC .NET 3\pattern3\pattern3\bin\Debug\pattern3.exe
+D:\Riya\assignment\MVC .NET 3\pattern3\pattern3\bin\Debug\pattern3.pdb
+D:\Riya\assignment\MVC .NET 3\pattern3\pattern3\obj\Debug\pattern3.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\pattern3\pattern3\obj\Debug\pattern3.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\pattern3\pattern3\obj\Debug\pattern3.exe
+D:\Riya\assignment\MVC .NET 3\pattern3\pattern3\obj\Debug\pattern3.pdb

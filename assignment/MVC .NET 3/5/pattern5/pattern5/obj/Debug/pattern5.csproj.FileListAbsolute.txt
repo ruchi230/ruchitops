@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\pattern5\pattern5\bin\Debug\pattern5.exe.config
+D:\Riya\assignment\MVC .NET 3\pattern5\pattern5\bin\Debug\pattern5.exe
+D:\Riya\assignment\MVC .NET 3\pattern5\pattern5\bin\Debug\pattern5.pdb
+D:\Riya\assignment\MVC .NET 3\pattern5\pattern5\obj\Debug\pattern5.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\pattern5\pattern5\obj\Debug\pattern5.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\pattern5\pattern5\obj\Debug\pattern5.exe
+D:\Riya\assignment\MVC .NET 3\pattern5\pattern5\obj\Debug\pattern5.pdb
