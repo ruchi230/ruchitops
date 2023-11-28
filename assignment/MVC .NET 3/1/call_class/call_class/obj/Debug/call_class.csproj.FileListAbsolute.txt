@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\call_class\call_class\bin\Debug\call_class.exe.config
+D:\Riya\assignment\MVC .NET 3\call_class\call_class\bin\Debug\call_class.exe
+D:\Riya\assignment\MVC .NET 3\call_class\call_class\bin\Debug\call_class.pdb
+D:\Riya\assignment\MVC .NET 3\call_class\call_class\obj\Debug\call_class.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\call_class\call_class\obj\Debug\call_class.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\call_class\call_class\obj\Debug\call_class.exe
+D:\Riya\assignment\MVC .NET 3\call_class\call_class\obj\Debug\call_class.pdb
