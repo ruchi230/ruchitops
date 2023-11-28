@@ -1,0 +1,14 @@
+D:\Riya\assignment\MVC .NET 3\string_in_descending_order\string_in_descending_order\obj\Debug\string_in_descending_order.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\string_in_descending_order\string_in_descending_order\obj\Debug\string_in_descending_order.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\string_in_descending_order\string_in_descending_order\bin\Debug\string_in_descending_order.exe.config
+D:\Riya\assignment\MVC .NET 3\string_in_descending_order\string_in_descending_order\bin\Debug\string_in_descending_order.exe
+D:\Riya\assignment\MVC .NET 3\string_in_descending_order\string_in_descending_order\bin\Debug\string_in_descending_order.pdb
+D:\Riya\assignment\MVC .NET 3\string_in_descending_order\string_in_descending_order\obj\Debug\string_in_descending_order.exe
+D:\Riya\assignment\MVC .NET 3\string_in_descending_order\string_in_descending_order\obj\Debug\string_in_descending_order.pdb
+D:\Riya\assignment\baki\string_in_descending_order\string_in_descending_order\bin\Debug\string_in_descending_order.exe.config
+D:\Riya\assignment\baki\string_in_descending_order\string_in_descending_order\bin\Debug\string_in_descending_order.exe
+D:\Riya\assignment\baki\string_in_descending_order\string_in_descending_order\bin\Debug\string_in_descending_order.pdb
+D:\Riya\assignment\baki\string_in_descending_order\string_in_descending_order\obj\Debug\string_in_descending_order.csproj.AssemblyReference.cache
+D:\Riya\assignment\baki\string_in_descending_order\string_in_descending_order\obj\Debug\string_in_descending_order.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\baki\string_in_descending_order\string_in_descending_order\obj\Debug\string_in_descending_order.exe
+D:\Riya\assignment\baki\string_in_descending_order\string_in_descending_order\obj\Debug\string_in_descending_order.pdb

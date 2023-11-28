@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\replace_specific_word\replace_specific_word\bin\Debug\replace_specific_word.exe.config
+D:\Riya\assignment\MVC .NET 3\replace_specific_word\replace_specific_word\bin\Debug\replace_specific_word.exe
+D:\Riya\assignment\MVC .NET 3\replace_specific_word\replace_specific_word\bin\Debug\replace_specific_word.pdb
+D:\Riya\assignment\MVC .NET 3\replace_specific_word\replace_specific_word\obj\Debug\replace_specific_word.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\replace_specific_word\replace_specific_word\obj\Debug\replace_specific_word.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\replace_specific_word\replace_specific_word\obj\Debug\replace_specific_word.exe
+D:\Riya\assignment\MVC .NET 3\replace_specific_word\replace_specific_word\obj\Debug\replace_specific_word.pdb

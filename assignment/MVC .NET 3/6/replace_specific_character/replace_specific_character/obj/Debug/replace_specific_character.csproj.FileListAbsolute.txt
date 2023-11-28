@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\replace_specific_character\replace_specific_character\bin\Debug\replace_specific_character.exe.config
+D:\Riya\assignment\MVC .NET 3\replace_specific_character\replace_specific_character\bin\Debug\replace_specific_character.exe
+D:\Riya\assignment\MVC .NET 3\replace_specific_character\replace_specific_character\bin\Debug\replace_specific_character.pdb
+D:\Riya\assignment\MVC .NET 3\replace_specific_character\replace_specific_character\obj\Debug\replace_specific_character.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\replace_specific_character\replace_specific_character\obj\Debug\replace_specific_character.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\replace_specific_character\replace_specific_character\obj\Debug\replace_specific_character.exe
+D:\Riya\assignment\MVC .NET 3\replace_specific_character\replace_specific_character\obj\Debug\replace_specific_character.pdb

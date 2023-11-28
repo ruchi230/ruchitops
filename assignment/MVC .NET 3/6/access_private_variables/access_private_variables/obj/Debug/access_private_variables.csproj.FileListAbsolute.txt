@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\access_private_variables\access_private_variables\bin\Debug\access_private_variables.exe.config
+D:\Riya\assignment\MVC .NET 3\access_private_variables\access_private_variables\bin\Debug\access_private_variables.exe
+D:\Riya\assignment\MVC .NET 3\access_private_variables\access_private_variables\bin\Debug\access_private_variables.pdb
+D:\Riya\assignment\MVC .NET 3\access_private_variables\access_private_variables\obj\Debug\access_private_variables.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\access_private_variables\access_private_variables\obj\Debug\access_private_variables.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\access_private_variables\access_private_variables\obj\Debug\access_private_variables.exe
+D:\Riya\assignment\MVC .NET 3\access_private_variables\access_private_variables\obj\Debug\access_private_variables.pdb

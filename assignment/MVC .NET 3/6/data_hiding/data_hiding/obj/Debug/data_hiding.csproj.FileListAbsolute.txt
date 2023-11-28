@@ -1,0 +1,7 @@
+D:\Riya\assignment\MVC .NET 3\data_hiding\data_hiding\bin\Debug\data_hiding.exe.config
+D:\Riya\assignment\MVC .NET 3\data_hiding\data_hiding\bin\Debug\data_hiding.exe
+D:\Riya\assignment\MVC .NET 3\data_hiding\data_hiding\bin\Debug\data_hiding.pdb
+D:\Riya\assignment\MVC .NET 3\data_hiding\data_hiding\obj\Debug\data_hiding.csproj.AssemblyReference.cache
+D:\Riya\assignment\MVC .NET 3\data_hiding\data_hiding\obj\Debug\data_hiding.csproj.CoreCompileInputs.cache
+D:\Riya\assignment\MVC .NET 3\data_hiding\data_hiding\obj\Debug\data_hiding.exe
+D:\Riya\assignment\MVC .NET 3\data_hiding\data_hiding\obj\Debug\data_hiding.pdb
