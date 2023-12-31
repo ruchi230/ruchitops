@@ -1,0 +1,7 @@
+D:\Riya\assessment\assessment 4\oops\oops\bin\Debug\oops.exe.config
+D:\Riya\assessment\assessment 4\oops\oops\bin\Debug\oops.exe
+D:\Riya\assessment\assessment 4\oops\oops\bin\Debug\oops.pdb
+D:\Riya\assessment\assessment 4\oops\oops\obj\Debug\oops.csproj.AssemblyReference.cache
+D:\Riya\assessment\assessment 4\oops\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache
+D:\Riya\assessment\assessment 4\oops\oops\obj\Debug\oops.exe
+D:\Riya\assessment\assessment 4\oops\oops\obj\Debug\oops.pdb
